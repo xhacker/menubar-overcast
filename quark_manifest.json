@@ -1,0 +1,11 @@
+{
+  "name": "Menubar Overcast",
+  "bundle_id": "im.xhacker.MenubarOvercast",
+  "version": "0.1",
+  "popup_size": {
+    "width": 360,
+    "height": 360,
+    "min_width": 260,
+    "min_height": 260
+  }
+}
